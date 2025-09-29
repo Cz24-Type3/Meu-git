@@ -7,6 +7,8 @@
     $senha = $_POST['senha'];
     $telefone = $_POST['telefone'];
 
+    //echo "olá tudo bem?"
+
     //Comando SQL
     $sql = "INSERT INTO usuario (nome, email, senha, telefone)
             VALUES (?, ?, ?, ?)";
