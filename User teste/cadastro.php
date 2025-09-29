@@ -7,7 +7,8 @@
     $senha = $_POST['senha'];
     $telefone = $_POST['telefone'];
 
-    //echo "olá tudo bem?"
+    //echo "olá tudo bem?" SIM  isto foi um teste de git
+    //Mais um teste de git
 
     //Comando SQL
     $sql = "INSERT INTO usuario (nome, email, senha, telefone)
