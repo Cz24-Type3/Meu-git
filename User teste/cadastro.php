@@ -11,6 +11,7 @@
     echo "olá";
     echo "olá";
     echo "olá";
+    echo "Testando na master";
     
     //echo "olá tudo bem?"; SIM  isto foi um teste de git
     //Mais um teste de git;
